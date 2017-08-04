@@ -1,5 +1,5 @@
 .intro-header {
-  background: linear-gradient(120deg, #303F9F, #390063);
+  background: linear-gradient(120deg, #44309F, #390063);
   background-attachment: scroll;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -36,5 +36,25 @@
 }
 
 .notepad-index-post-tags a:hover {
-	color:  #3F51B5;
-	border: 0.0625rem solid  #3F51B5; }
+	color:  #44309F;
+	border: 0.0625rem solid  #44309F;
+}
+
+.navbar-custom.is-fixed {
+  /* when the user scrolls down, we hide the header right above the viewport */
+  position: fixed;
+  top: -61px;
+  background-color: #44309F;
+  border-bottom: 1px solid #390063;
+}
+.navbar-custom.is-fixed .navbar-brand {
+  color: #FFFFFF;
+}
+
+.navbar-custom.is-fixed .nav li a {
+  color: #FFFFFF;
+}
+
+.navbar-custom.is-fixed .nav li a:hover {
+  color: #03A9F4;
+}

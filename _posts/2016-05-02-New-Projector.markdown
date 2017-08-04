@@ -1,9 +1,10 @@
 ---
 layout:     	projector
-title:     		New Projector
+title:     		Example Projector
 author:     	Ahmet Cecen
 tags:           projector visualization template
-subtitle:    	Some Short Description of Projector
+subtitle:    	Example of a three.js 3D projector
+category:  examples
 
 dataset:    /projectors/data.json
 ---
