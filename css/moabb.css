@@ -1,0 +1,40 @@
+.intro-header {
+  background: linear-gradient(120deg, #303F9F, #390063);
+  background-attachment: scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+  margin-bottom: 20px;
+}
+
+#site_title {
+  font-family: 'Bungee Shade', cursive;
+  font-size: 140px;
+  letter-spacing: 10px;
+  font-weight: 300;
+}
+
+#page_title {
+  font-family: 'Bungee Inline', cursive;
+  font-weight: 300;
+}
+
+.intro-header .site-heading .subheading {
+  font-family: 'Bungee Hairline';
+  font-weight: 700;
+}
+
+.intro-header .post-heading h1 {
+  font-family: 'Bungee Hairline';
+  font-weight: 700;
+}
+
+.intro-header .post-heading .subheading {
+  font-weight: 200;
+  font-size: 20px;
+}
+
+.notepad-index-post-tags a:hover {
+	color:  #3F51B5;
+	border: 0.0625rem solid  #3F51B5; }

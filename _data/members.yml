@@ -1,25 +1,23 @@
 # Members
 
-- name: Ahmet Cecen
-  role: Data Scientist / Materials Informatics
-  img: https://avatars1.githubusercontent.com/u/7231251?v=3&s=460
-  github: ahmetcecen
-  gplus: https://plus.google.com/+AhmetCecen-GPlus
-  bio: Ahmet Cecen is currently pursuing a PhD in Computational Science and Engineering at Georgia Institute of Technology.  He earned a bachelor’s degree in Mechanical Engineering at Drexel University. Ahmet has been doing research in the fields of computational materials science and materials informatics for the past 6 years, throughout his undergraduate and graduate studies. His current research focus is on leveraging statistical analysis and machine learning tools to solve big data analytics problems in materials science. 
-  url: http://ahmetcecen.github.io/
+- name: Alexandre Barachant, PhD
+  role: BCI Expert
+  img: ../img/members/alexandre.jpg
+  github: alexandrebarachant
+  bio: Alexandre has a PhD in Brain computer interface and has been working in this field since 2008. His research consists in applying signal processing and machine learning in order to decode the brain. Alexandre is the author of a new classification framework for BCI using Riemannian geometry and has won 6 international data science competitions related to classification of brain signal.
+  url: http://alexandre.barachant.org/
   visible: true
-   
-- name: David Brough
-  role: Data Scientist / Materials Informatics
-  img: https://avatars0.githubusercontent.com/u/4368625?v=3&s=460
-  github: davidbrough1
-  bio: David is a PhD student in the School of Computational Science and Engineering at Georgia Institute of Technology. David earned a Master’s degree in experimental condensed matter physics at Brigham Young University where he fabricated and characterized thin-films and carbon nanotubes used in nanostructured high capacity battery electrodes and in X-ray windows. As an undergraduate, David studied theoretical physics and researched the evolution of chaotic systems using neural networks at Westminster College. He is a trainee in the NSF IGERT FLAMEL program, and one of the lead developers on PyMKS materials informatics toolkit.
-  url: http://davidbrough.net 
+
+- name: Dano Morrison
+  role: Web Developer
+  img: ../img/members/dano.jpg
+  github: jdpigeon
+  bio: Dano has a MSc. in neuroscience from the University of Toronto and experience building web and mobile applications. After 7 years in the lab, Dano decided to shift his focus to the emerging world of neurotechnology and built EEG 101, an interactive neuroscience tutorial for Android that uses real-time EEG data.
+  url: http://neurosponge.com
   visible: true
-  
-- name: Surya R. Kalidindi
-  role: Materials Informatics
-  img: https://avatars1.githubusercontent.com/u/6601815?v=3&s=400
-  bio: Dr. Kalidindi’s research interests are broadly centered on designing material internal structure (including composition) for optimal performance in any selected application and identifying hybrid processing routes for its manufacture. To this end, he has employed a harmonious blend of experimental, theoretical, and numerical approaches in his research.
-  url: http://mined.gatech.edu/
-  visible: false
+
+- name: Sydney Swaine-Simon
+  role: Coordinator
+  img: ../img/members/sydney.jpg
+  bio: Sydney is the cofounder of District 3, an incubator based out of Montreal, Quebec that has coached over 350 startups in 4 years. He is also the co-founder of the non-profit organization NeuroTechX, an international network of neurotechnology enthusiasts with over 1700 members. With a presence in over 18 cities worldwide, its mission is to provide tools and resources to grow the field of neurotechnology.
+  visible: true
