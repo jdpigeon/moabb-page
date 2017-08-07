@@ -63,7 +63,7 @@
   color: #03A9F4;
 }
 
-@media only screen and (min-width: 768px) {
+@media only screen and (max-width: 700px) {
   #site_title {
     font-size: 90px;
   }
