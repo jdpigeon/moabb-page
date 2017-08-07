@@ -35,6 +35,10 @@
   font-size: 20px;
 }
 
+.post-heading {
+    margin-top: 30px;
+}
+
 .notepad-index-post-tags a:hover {
 	color:  #44309F;
 	border: 0.0625rem solid  #44309F;
@@ -57,4 +61,10 @@
 
 .navbar-custom.is-fixed .nav li a:hover {
   color: #03A9F4;
+}
+
+@media only screen and (min-width: 768px) {
+  #site_title {
+    font-size: 90px;
+  }
 }

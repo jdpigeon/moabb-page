@@ -1,10 +1,10 @@
 # Site settings
 title: "MOABB"
 description: "The Mother of all BCI Benchmarks"
-url: "http://neurosponge.com"
+url: "http://neurosponge.com/moabb-page/"
 
 # Secondary Parameters
-baseurl: "/moabb-page"
+baseurl: ""
 #header-img: img/home-bg.jpg
 headercolor: "#FFFFFF"
 #logo: img/logos/arches_icon.jpg
